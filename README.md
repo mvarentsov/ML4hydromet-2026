@@ -1,10 +1,10 @@
-# ML4hydromet-2025
+# ML4hydromet-2026
 
 Курс "Машинное обучение в гидрометеорологии" для магистров I года обучения географического факультета МГУ.   
 
-Читают **Михаил Варенцов** ([ИСТИНА](https://istina.msu.ru/workers-beta/10689047/), [ResearchGate](https://www.researchgate.net/profile/Mikhail-Varentsov-2)) и **Михаил Криницкий** ([персональная страница](https://sail.ocean.ru/staff/mikhail-krinitskiy), [ResearchGate](https://www.researchgate.net/profile/Mikhail-Krinitskiy)).
+Преподаватели: **Михаил Варенцов** ([ИСТИНА](https://istina.msu.ru/workers-beta/10689047/), [ResearchGate](https://www.researchgate.net/profile/Mikhail-Varentsov-2)) и **Михаил Криницкий** ([персональная страница](https://sail.ocean.ru/staff/mikhail-krinitskiy), [ResearchGate](https://www.researchgate.net/profile/Mikhail-Krinitskiy)).
 
-Предыдущая версия курса [ML4hydromet-2024](https://github.com/mvarentsov/ML4hydromet-2024#)
+Предыдущии версии курса: [ML4hydromet-2024](https://github.com/mvarentsov/ML4hydromet-2024#), [ML4hydromet-2025](https://github.com/mvarentsov/ML4hydromet-2025#)
 
 ## Материалы по курсу
 
