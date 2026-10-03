@@ -10,6 +10,7 @@
 
 | Название | Дата | Тема | Материалы |
 | ----- | ---- | ----- | ------- |
+| Занятие 1 | 02.10.2026 | Организационные вопросы.<br />Готовые коллекции данных.<br />Введение в машинное обучение. | [Презентация (MV)](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/presentations/Lect01_MV.pdf) |
 
 
 ## Домашние работы
@@ -21,6 +22,7 @@
 
 | Номер | Название | Срок сдачи | Материалы |
 | ---- | ---- | ----- | ------- 
+| 1 | Постановка задачи машинного обучения | 09.10.2026 | [Описание](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/homework/HW1_description.md) |
 
 **Больше домашних заданий не будет, остается только защита проектов в конце курса.** 
 
@@ -28,15 +30,15 @@
 
 | Название и ссылка| Предметная область | Куратор | Описание возможных задач|
 | ----- | ---- | ----- |----- |
-| [DASIO (All-Sky Imagery over the Ocean)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/DASIO-dataset-description.md) |Атмосферная радиация и облачность| Михаил Криницкий| Аппроксимация радиационных потоков на основе фотоснимков небесной полусферы|
-| [DISO3 (In-Situ Observations over the Ocean)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/DISO3-dataset-description.md) |Приводный слой атмосферы|  Михаил Криницкий| Анализ взаимосвязей между метеовеличинами|
-| [DDM (Discharge and Meteorology)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/DDM-dataset-description.md)|Гидрология| Михаил Варенцов|Аппроксимация и прогноз расхода воды в реке на основе осредненных по водосбору характеристиках метеорологического режима по данным реанализа|
-| [DUHI (Urban Heat Island)](https://github.com/mvarentsov/ML4hydromet-2025/blob/main/DUHI-dataset-description.md)|Городская метеорология|Михаил Варенцов|Аппроксимация и прогноз интенсивости городского острова тепла - разности температуры между городом и фоновым ландшафтом|
-| [DCIPP (Convective Intensive Precipitation Predictors)](https://github.com/mvarentsov/ML4hydromet-2025/edit/main/DCIPP_dataset-description.md)|Метеорология|Юлия Ярынич (julia.yarinich@yandex.ru)|Оценка рисков возникновения опасных явлений, связанных с глубокой конвекцией|
-| [BMSAQD (Beijing Multi-Site Air Quality Dataset)](https://github.com/mvarentsov/ML4hydromet-2025/edit/main/BMSAQD-README.md) |Городская метеорология|Михаил Криницкий|Прогноз уровня загрязнения PM2.5, PM10; аппроксимация уровня загрязнения по сопутствующим метеорологическим переменным|
-| [El Niño dataset](https://github.com/mvarentsov/ML4hydromet-2025/edit/main/ENOBD-README.md) |Океанология|Михаил Криницкий|Прогноз температуры поверхности океана, анализ и прогноз индекса El Niño|
-| [Crowdsourced Mapping dataset](https://github.com/mvarentsov/ML4hydromet-2025/edit/main/Crowdsourced-Mapping-README.md) |Дистанционное зондирование Земли из космоса|Михаил Криницкий|Классификация типов земной поверхности|
-| [JCDS (Jena Climate Dataset)](https://github.com/mvarentsov/ML4hydromet-2025/edit/main/JCDS-README.md) |Метеорология|Михаил Криницкий|Классификация режимов погоды, прогноз временных рядов метеорологических переменных, аппроксимация связей между метеорологическими переменными|
+| [DASIO (All-Sky Imagery over the Ocean)](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/dataset-descriptions/DASIO-dataset-description.md) |Атмосферная радиация и облачность| Михаил Криницкий| Аппроксимация радиационных потоков на основе фотоснимков небесной полусферы|
+| [DISO3 (In-Situ Observations over the Ocean)](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/dataset-descriptions/DISO3-dataset-description.md) |Приводный слой атмосферы|  Михаил Криницкий| Анализ взаимосвязей между метеовеличинами|
+| [DDM (Discharge and Meteorology)](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/dataset-descriptions/DDM-dataset-description.md)|Гидрология| Михаил Варенцов|Аппроксимация и прогноз расхода воды в реке на основе осредненных по водосбору характеристиках метеорологического режима по данным реанализа|
+| [DUHI (Urban Heat Island)](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/dataset-descriptions/DUHI-dataset-description.md)|Городская метеорология|Михаил Варенцов|Аппроксимация и прогноз интенсивости городского острова тепла - разности температуры между городом и фоновым ландшафтом|
+| [DCIPP (Convective Intensive Precipitation Predictors)](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/dataset-descriptions/DCIPP_dataset-description.md)|Метеорология|Юлия Ярынич (julia.yarinich@yandex.ru)|Оценка рисков возникновения опасных явлений, связанных с глубокой конвекцией|
+| [BMSAQD (Beijing Multi-Site Air Quality Dataset)](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/dataset-descriptions/BMSAQD-README.md) |Городская метеорология|Михаил Криницкий|Прогноз уровня загрязнения PM2.5, PM10; аппроксимация уровня загрязнения по сопутствующим метеорологическим переменным|
+| [El Niño dataset](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/dataset-descriptions/ENOBD-README.md) |Океанология|Михаил Криницкий|Прогноз температуры поверхности океана, анализ и прогноз индекса El Niño|
+| [Crowdsourced Mapping dataset](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/dataset-descriptions/Crowdsourced-Mapping-README.md) |Дистанционное зондирование Земли из космоса|Михаил Криницкий|Классификация типов земной поверхности|
+| [JCDS (Jena Climate Dataset)](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/dataset-descriptions/JCDS-README.md) |Метеорология|Михаил Криницкий|Классификация режимов погоды, прогноз временных рядов метеорологических переменных, аппроксимация связей между метеорологическими переменными|
 
 ## Полезные ссылки
 - Канал StatQuest про статистику и ML (на английском): [YouTube](https://www.youtube.com/@statquest), [сайт](https://statquest.org)
