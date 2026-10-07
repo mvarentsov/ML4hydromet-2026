@@ -10,7 +10,7 @@
 
 | Название | Дата | Тема | Материалы |
 | ----- | ---- | ----- | ------- |
-| Занятие 1 | 02.10.2026 | Организационные вопросы.<br />Готовые коллекции данных.<br />Введение в машинное обучение. | [Презентация (MV)](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/presentations/Lect01_MV.pdf) |
+| Занятие 1 | 02.10.2026 | Организационные вопросы.<br />Готовые коллекции данных.<br />Введение в машинное обучение. | [Презентация (MV)](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/presentations/Lect01_MV.pdf)<br />[Презентация (MK)](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/presentations/Lect01_MK.pdf)<br />[Видеозапись - ч.1](https://ml4es.ru/links/2024-10-02-ML4Hydromet2026-Lect01a)<br />[Видеозапись - ч.2](https://ml4es.ru/links/2024-10-02-ML4Hydromet2026-Lect01b)<br />[Видеозапись - ч.3](https://ml4es.ru/links/2024-10-02-ML4Hydromet2026-Lect01c) |
 
 
 ## Домашние работы
