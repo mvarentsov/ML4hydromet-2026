@@ -8,11 +8,11 @@
 
 | Река | Пост и ссылка на данные | Площадь водосбора (км2)| Временной период  |
 | ------------ | ------------- | ----------------| ----------------
-|Хопер| [Пановка](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/datasets/DDR/Khoper_Panovka.csv)  |932 |1950-2016
-|Хопер| [Балашов](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/datasets/DDR/Khoper_Balashov.csv)  |14300 |1950-2016
-|Хопер| [Поворино](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/datasets/DDR/Khoper_Povorino.csv) |19100 |1950-2016
-|Сосна| [Елец](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/datasets/DDR/Sosna_Elets.csv) |16300 |1950-2016
-|Которосль| [Гаврилов-Ям](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/datasets/DDR/Kotorosl_GavYam.csv) |4980 |1980-2017
+|Хопер| [Пановка](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/datasets/DDR/Khoper_Panovka.csv)  |932 |1950-2016
+|Хопер| [Балашов](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/datasets/DDR/Khoper_Balashov.csv)  |14300 |1950-2016
+|Хопер| [Поворино](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/datasets/DDR/Khoper_Povorino.csv) |19100 |1950-2016
+|Сосна| [Елец](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/datasets/DDR/Sosna_Elets.csv) |16300 |1950-2016
+|Которосль| [Гаврилов-Ям](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/datasets/DDR/Kotorosl_GavYam.csv) |4980 |1980-2017
 
 Набор данных для каждого из постов включает в себя следующие переменные:
 - `date` - дата 
