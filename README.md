@@ -12,6 +12,7 @@
 | ----- | ---- | ----- | ------- |
 | Занятие 1 | 02.10.2026 | Организационные вопросы.<br />Готовые коллекции данных.<br />Введение в машинное обучение. | [Презентация (MV)](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/presentations/Lect01_MV.pdf)<br />[Презентация (MK)](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/presentations/Lect01_MK.pdf)<br />[Видеозапись - ч.1](https://ml4es.ru/links/2024-10-02-ML4Hydromet2026-Lect01a)<br />[Видеозапись - ч.2](https://ml4es.ru/links/2024-10-02-ML4Hydromet2026-Lect01b)<br />[Видеозапись - ч.3](https://ml4es.ru/links/2024-10-02-ML4Hydromet2026-Lect01c) |
 | Занятие 2 | 09.10.2026 | Введение в машинное обучение (продолжение).<br />Обсуждение ДЗ №1.<br />Технические средства анализа данных.<br />Разведочный анализ данных. | [Презентация (MV)](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/presentations/Lect02_MV.pdf)<br />[Ноутбук (Google colab demo)](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/examples/Lect02_Colab_demo.ipynb)<br />[Ноутбук (Python demo)](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/examples/Lect02_Python_demo.ipynb)<br />[Ноутбук (EDA demo)](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/examples/Lect02_EDA_demo.ipynb) |
+| Занятие 3 | 16.10.2026 | Вероятностная постановка задачи МО.<br />Модели линейной и логистической регрессии. | [Ноутбук (пример с синтетическими данными)](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/examples/Lect03_LR_synthetic_data.ipynb)<br />[Ноутбук (пример с реальными данными)](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/examples/Lect03_LR_real_data.ipynb) |
 
 
 ## Домашние работы
@@ -24,7 +25,7 @@
 | Номер | Название | Срок сдачи | Материалы |
 | ---- | ---- | ----- | ------- |
 | 1 | Постановка задачи машинного обучения | 09.10.2026 | [Описание](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/homework/HW1_description.md) |
-| 2 | Разведочный анализ данных | 16.10.2026 | [Описание](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/homework/HW2_description.md) |
+| 2 | Разведочный анализ данных | ~~16.10.2026~~ <br /> 23.10.2026 | [Описание](https://github.com/mvarentsov/ML4hydromet-2026/blob/main/homework/HW2_description.md) |
 
 ## Готовые коллекции данных для выполнения практических работ
 
