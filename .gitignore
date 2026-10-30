@@ -9,6 +9,8 @@ ipython_config.py
 
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
+# Временные файлы Cline (в т.ч. резервные копии и песочница для проверки ноутбуков)
+_temp/
 examples/catboost_info/catboost_training.json
 examples/catboost_info/learn_error.tsv
 examples/catboost_info/time_left.tsv
